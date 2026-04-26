@@ -1,2 +1,2 @@
-# Taller_De_Investigaci-n
+# Taller_De_Investigacion
 Subo mis avances de mi taller de investigación
