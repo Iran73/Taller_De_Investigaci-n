@@ -1,2 +1,2 @@
 # Taller_De_Investigacion
-Subo mis avances de mi taller de investigación
+GitHub para subir mis proyectos de Tesis I, II y Taller de investigación de la UNI :3
